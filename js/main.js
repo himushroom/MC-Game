@@ -68,7 +68,7 @@ function iniGame() {
   plank.anchor.setTo(0, 0.5)
   // 白球位置设置
   whiteBall.x = gameSet.width / 2 - 44 - 8
-  whiteBall.y = gameSet.height * (5 / 6) - 8
+  whiteBall.y = gameSet.height * (5 / 6) - 16
   whiteBall.anchor.setTo(0, 0.5)
   pause.anchor.setTo(0, 0.5)
 }
